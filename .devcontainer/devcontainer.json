@@ -2,6 +2,12 @@
     "features": {
     "ghcr.io/rocker-org/devcontainer-features/quarto-cli:1": {},
     "ghcr.io/rocker-org/devcontainer-features/r-rig:1": {},
-    "ghcr.io/rocker-org/devcontainer-features/r-packages:1": {}
+    "ghcr.io/devcontainers/features/python:1": {
+         "version": "latest",
+         "installTools": true
+    },
+    "ghcr.io/rocker-org/devcontainer-features/r-packages:1": {
+        "packages": "tidyverse"
     }
+  }
 }
