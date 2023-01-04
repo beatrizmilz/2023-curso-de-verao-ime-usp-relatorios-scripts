@@ -1,15 +1,13 @@
 ---
-title: "Untitled"
+title: "Exemplo de arquivo Quarto"
 format: html
+date: "2023-01-04"
+jupyter: python3
+lang: pt
 ---
-
-
-```{r}
-1 + 1
-```
-
 
 
 ```{python}
 1 + 1
 ```
+
