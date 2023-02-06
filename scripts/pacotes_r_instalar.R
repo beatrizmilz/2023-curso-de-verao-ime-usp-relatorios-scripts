@@ -1,6 +1,0 @@
-# install.packages("languageserver")
-# install.packages("htmltools")
-install.packages("rmarkdown")
-# install.packages("tidyverse")
-# install.packages("reticulate")
-# reticulate::install_miniconda(force = TRUE)
